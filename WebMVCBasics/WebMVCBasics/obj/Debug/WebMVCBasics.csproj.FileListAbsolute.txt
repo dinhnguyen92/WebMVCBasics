@@ -77,6 +77,5 @@ C:\Users\Dinh Nguyen Nguyen\Documents\GitHub\Harry\WebMVCBasics\WebMVCBasics\bin
 C:\Users\Dinh Nguyen Nguyen\Documents\GitHub\Harry\WebMVCBasics\WebMVCBasics\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Dinh Nguyen Nguyen\Documents\GitHub\Harry\WebMVCBasics\WebMVCBasics\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Dinh Nguyen Nguyen\Documents\GitHub\Harry\WebMVCBasics\WebMVCBasics\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Dinh Nguyen Nguyen\Documents\GitHub\Harry\WebMVCBasics\WebMVCBasics\obj\Debug\WebMVCBasics.csprojResolveAssemblyReference.cache
 C:\Users\Dinh Nguyen Nguyen\Documents\GitHub\Harry\WebMVCBasics\WebMVCBasics\obj\Debug\WebMVCBasics.dll
 C:\Users\Dinh Nguyen Nguyen\Documents\GitHub\Harry\WebMVCBasics\WebMVCBasics\obj\Debug\WebMVCBasics.pdb

@@ -22,7 +22,7 @@ namespace WebMVCBasics
             // Add "Hello" route with route data for name and ID parameters
             routes.MapRoute(
                 name: "Hello",
-                url: "{controller}/{action}/{name}/{id}"            
+                url: "{controller}/{action}/{name}/{numTimes}"            
             );
         }
     }
